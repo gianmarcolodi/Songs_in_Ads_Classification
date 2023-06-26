@@ -1,0 +1,787 @@
+1.   Hires Root Beer			|Beer
+2.   Peugeot 307			|Car
+3.   iPod Nano / Ebay			|Tech(audio)	|E-commerce
+4.   Quaker Cereal			|Food(cereal)
+5.   Cadillac SRX			|Car
+6.   Diet Coke				|Soft Drink
+7.   Hershey Chocolate			|Snack(sweet)
+8.   Apple				|Tech
+9.   Mazda				|Car
+10.  John Lewis				|Department Store
+11.  Brooke Bond Tea			|Tea
+12.  Target				|Department Store
+13.  Vauxhall				|Car
+14.  Delta Airlines			|Airline
+15.  Castle Lager Beer			|Beer
+16.  Adidas				|Sport
+17.  Michelob Beer			|Beer
+18.  Just For Men / Mercury		|Body care(hair)	|Car
+19.  Dr. Pepper				|Soft Drink
+20.  Hamlet Cigars			|Tobacco
+21.  Nike				|Sport
+22.  Gap				|Clothing
+23.  AT&T				|Phone Company
+24.  T-Mobile				|Phone Company
+25.  BT Sport				|Pay Television
+26.  Wringley's				|Snack(sweet)
+27.  Progressive			|Insurance
+28.  Verizon / Budweiser		|Telecommunications	|Beer
+29.  Luvs				|Diapers
+30.  Gatorade Bars			|Snack(sweet)
+31.  Levi's				|Clothing
+32.  Google's phone			|Tech(phone)
+33.  Tommy Hilfiger / Castrol / Nike	|Clothing	|Gas	|Sport
+34.  ASPCA				|Non-profit
+35.  KIA				|Car
+36.  Vodafone				|Phone Company
+37.  AIWA Sound System / Hyundai	|Tech(audio)	|Car
+38.  Heinz				|Food(sauces)
+39.  State Farm				|Insurance
+40.  Beats				|Tech(audio)
+41.  KIA				|Car
+42.  iPod				|Tech(audio)
+43.  Volkswagen				|Car
+44.  British Airways			|Airline
+45.  iPod Touch				|Tech(audio)
+46.  Marks & Spencer			|Retail
+47.  US Navy				|Military
+48.  Nissan / Cisco			|Car	|Telecommunications		
+49.  Swiffer				|House(cleaning)
+50.  Dasani Water			|Water
+51.  Dr. Pepper				|Soft Drink
+52.  Carnival				|Tourism(cruise)
+53.  Apple				|Tech
+54.  Cialis				|Medicine
+55.  Subaru				|Car
+56.  Target				|Department Store
+57.  Nintendo Switch			|Tech(console)
+58.  Lowe's / Lay's / Toyota / Hyundai	|House	|Snack(salt)	|Car	|Car
+59.  iPhone X				|Tech(phone)
+60.  Harley Davidson			|Motorbike
+61.  Special K cereal			|Food(cereal)
+62.  Carnival				|Tourism(cruise)
+63.  Pepsi				|Soft drink
+64.  Nike / Vauxhall			|Sport	|Car
+65.  Destiny				|Videogame
+66.  Nissan				|Car
+67.  Visa				|Finance
+68.  Mercedes				|Car
+69.  Wendy's				|Fast Food
+70.  Revlon				|Body care(cosmetics)
+71.  Budweiser				|Beer
+72.  American Express			|Finance
+73.  Beats				|Tech(audio)
+74.  Vodafone				|Phone Company
+75.  Southern Comfort			|Booze
+76.  Very Mobile			|Phone Company
+77.  Gap / Levi's			|Clothing	|Clothing
+78.  Levi's				|Clothing
+79.  Diesel Jeans / Dodge		|Clothing	|Car
+80.  Rhapsody				|Music service
+81.  Quicken Loans			|Finance
+82.  Microsoft tablet			|Tech(tablet)
+83.  National car rental / JPmorgan chase	|Car	|Finance
+84.  TV Land				|TV channel
+85.  iPod				|Tech(audio)
+86.  Payday bars / Old navy		|Snack(sweet)	|Clothing
+87.  Bai				|Juice
+88.  Levi's				|Clothing
+89.  Nivea				|Body Care
+90.  Santa Cruz Beach Boardwalk		|Tourism
+91.  Vodafone				|Phone Company
+92.  Pizza Hut				|Pizzeria
+93.  Wringley's				|Snack(sweet)
+94.  Miller Genuine Draft		|Beer
+95.  Toyota				|Car
+96.  Nissan				|Car
+97.  Tropicana				|Juice
+98.  Nissan / American Express / Carling	|Car	|Finance	|Beer
+99.  Nissan / Pubblicità sociale	|Car	|Non-profit
+100. Volvo / General electric		|Car	|Telecommunications
+101. Nike				|Sport
+102. ESPN				|TV channel(sport)
+103. McDonald's				|Fast Food
+104. Dior				|Perfume
+105. National Guard			|Military
+106. Adidas				|Sport
+107. Maxwell House			|Coffee
+108. M&M's				|Snack(sweet)
+109. Ford				|Car
+110. BMW				|Car
+111. Reebok				|Sport
+112. NBA				|Sport
+113. Apple				|Tech
+114. Nortel / Macy's			|Telecommunications	|Department Store
+115. Budweiser				|Beer
+116. iPhone 6				|Tech(phone)
+117. Jeep				|Car
+118. Blue Cross Blue Shield		|Insurance(health)
+119. Bud Light				|Beer
+120. Greene King IPA			|Beer
+121. Mitsubishi / Honda			|Car	|Car
+122. Bud Light				|Beer
+123. Campbell's				|Food(soup)
+124. Kellogg's				|Snack(sweet)
+125. Volkswagen				|Car
+126. Chips Ahoy				|Food(cookies)
+127. Microsoft				|Tech
+128. Nissan				|Car
+129. Activia				|Food(yogurt)
+130. Twisted Tea			|Tea
+131. Bacardi				|Booze
+132. Volkswagen				|Car
+133. Mitsubishi				|Car
+134. Jaguar				|Car
+135. NBA				|Sport
+136. Sprint				|Phone Company
+137. Beats				|Tech(audio)
+138. Pepsi				|Soft Drink
+139. Mitsubishi / VH1 / HP		|Car	|TV Channel(music)	|Tech
+140. Opel				|Car
+141. Xbox				|Tech(console)
+142. Beats				|Tech(audio)
+143. Peloton				|Sport
+144. Heineken				|Beer
+145. Budweiser				|Beer
+146. Nevada tourism campaign		|Tourism
+147. Burger King			|Fast Food
+148. Nissan				|Car
+149. Google Photos App			|Tech(app)
+150. Mazda				|Car
+151. Argos				|Retail
+152. Michelob				|Beer
+153. Visa				|Finance
+154. iPhone 7				|Tech(phone)
+155. Coles				|Supermarket
+156. Buick				|Car
+157. University of Phoenix		|Education
+158. Ford				|Car
+159. Apple Watch			|Tech(smartwatch)
+160. Rolling Rock			|Beer
+161. Iceland				|Supermarket
+162. Hot Pockets			|Food
+163. Toyota				|Car
+164. Levi's				|Clothing
+165. Boston Market			|Restaurant
+166. Amazon Prime Wardrobe		|Clothing
+167. Volkswagen				|Car
+168. GMC				|Car
+169. Mercedes				|Car
+170. Wind				|Phone Company
+171. Pringles				|Snack(salt)
+172. Volvo				|Car
+173. Anti-Smoking campaign		|Non-profit
+174. AARP				|Non-profit
+175. Nexus 7 tablet			|Tech(tablet)
+176. Toyota				|Car
+177. 3					|Phone Company
+178. Pepsi				|Soft Drink
+179. Starbucks				|Coffee
+180. Covergirl				|Body Care(cosmetics)
+181. Fritos				|Snack(salt)
+182. Old Navy				|Clothing
+183. iPad Pro				|Tech(tablet)
+184. Buick				|Car
+185. Volvo				|Car
+186. Hyundai				|Car
+187. National (Panasonic)		|Tech(appliance)
+188. Ford				|Car
+189. American Express			|Finance
+190. Bud Light				|Beer
+191. Cadillac				|Car
+192. Levi's				|Clothing
+193. Travel campaign / Peugeot		|Tourism	|Car
+194. US Postal Service			|Postal Service
+195. McCain French fries		|Snack(salt)
+196. Miller beer			|Beer
+197. Zales jewelry			|Jewelry
+198. Target				|Department Store
+199. Wrigley's				|Snack(sweet)
+200. Pampers				|Diapers
+201. Puma				|Sport
+202. Ford				|Car
+203. Norwegian Cruise Lines		|Tourism(cruise)
+204. Miller Lite Beer			|Beer
+205. D&G / T-Mobile			|Perfume	|Phone Company
+206. Dodge				|Car
+207. Wonderful Pistachios		|Snack(salt)
+208. Citroen				|Car
+209. Cadillac / Levi's			|Car	|Clothing
+210. Kia				|Car
+211. Beer				|Beer
+212. Carl's Jr. Restaurants		|Restaurant
+213. Old Navy				|Clothing
+214. Michelob				|Beer
+215. Blue Diamond / Walmart		|Snack(salt)	|Department Store
+216. Volkswagen				|Car
+217. Mtn Dew				|Soft Drink
+218. Phillips				|Tech
+219. iPhone				|Tech(phone)
+220. Kinder Bueno			|Snack(sweet)
+221. Allstate				|Insurance
+222. Boots				|Pharmacy
+223. Gap				|Clothing
+224. Heineken				|Beer
+225. Mastercard / Pringles / Honda	|Finance	|Snack(salt)	|Car
+226. Google Glass			|Tech
+227. GMC				|Car
+228. Elderplan				|Insurance(health)
+229. National Car Rental		|Car
+230. Gap				|Clothing
+231. Apple Watch			|Tech(smartwatch)
+232. John Lewis				|Department Store
+233. Honda				|Car
+234. Hershey's				|Snack(sweet)
+235. Norwegian Cruise Line		|Tourism(cruise)
+236. Calvin Klein			|Clothing(underwear)
+237. Sunkist				|Soft Drink
+238. Nivea				|Body Care
+239. Dior				|Perfume
+240. iPhone 6s				|Tech(phone)
+241. Pennzoil				|Gas
+242. Mercedes				|Car
+243. Dreamland Electric Blanket		|House
+244. T-Mobile				|Phone Company
+245. Dasani water			|Water
+246. Peugeot				|Car
+247. Dodge				|Car
+248. Dodge				|Car
+249. John Lewis				|Department Store
+250. Fiat				|Car
+251. Microsoft				|Tech
+252. Cheerios				|Food(cereals)
+253. Beats / Transavia Airlines		|Tech(audio)	|Airline
+254. Hummer				|Car
+255. Burger King / Nintendo / Playstation / Heineken / Florida Orange Juice	|Fast Food	|Tech(console)	|Tech(console)	|Beer	|Juice
+256. Mastercard				|Finance
+257. Medipren				|Medicine
+258. Carte D'or				|Snack(sweet)
+259. Miller Beer			|Beer
+260. Pepe Jeans				|Clothing
+261. Sony Bravia TV			|Tech(TV)
+262. The Key				|Perfume
+263. Lotteria 				|Lottery
+264. Telkom / Trident			|Phone Company	|Snack(sweet)
+265. Downy				|House(cleaning)
+266. Boots				|Pharmacy
+267. Walmart				|Department Store
+268. Game of War			|Videogame
+269. Jeep				|Car
+270. Microsoft / Pepsi			|Tech	|Soft Drink
+271. NJOY				|Tobacco(e-cigarette)
+272. Disneyland				|Theme Park
+273. KFC				|Fast Food
+274. Bing				|Tourism
+275. Nike				|Sport
+276. Coca Cola				|Soft Drink
+277. Progressive insurance		|Insurance
+278. NCA				|Coffee
+279. Tommy Hilfiger / Honda		|Clothing	|Car
+280. Infiniti				|Car
+281. Kin Phone / Levi's / Blue Cross Blue Shield	|Tech(phone)	|Clothing	|Insurance(health)
+282. Coldwell Banker Real Estate / Sprint		|Estate Agency	|Telecommunications
+283. Bud Light				|Beer
+284. T-Mobile				|Phone Company
+285. Jeep / Samsung			|Car	|Tech
+286. Kia				|Car
+287. Samsung				|Car
+288. Sky Wi-Fi				|Telecommunications
+289. Red Bull				|Soft Drink
+290. Burger King			|Fast Food
+291. Samsung				|Tech
+292. Sprite				|Soft Drink
+293. Windex				|House(cleaning)
+294. Chrysler				|Car
+295. Nike / Pampers			|Sport	|Diapers
+296. Airtel				|Phone Company
+297. Jeremiah Weed			|Booze
+298. California Raisins			|Snack(sweet)
+299. Walmart				|Department Store
+300. Diet Coke				|Soft Drink
+301. iPhone 6				|Tech(phone)
+302. Pepsi				|Soft Drink
+303. Burger King			|Fast Food
+304. Samsung				|Tech
+305. Burger King / M&M's / Ritz 	|Fast Food	|Snack(sweet)	|Snack(salt)
+306. Qantas Airlines			|Airline
+307. Levi's				|Clothing
+308. Rimmel				|Body care(cosmetics)
+309. Coca Cola				|Soft Drink
+310. Coca Cola				|Soft Drink
+311. Progressive Insurance		|Insurance
+312. Gap 				|Clothing
+313. Volkswagen				|Car
+314. Enjoli				|Perfume
+315. Boots / Holland & Barrett		|Pharmacy	|Pharmacy
+316. American Express			|Finance
+317. Chase				|Finance
+318. Budweiser				|Beer
+319. Yogurt Burst Cheerios		|Food(cereal)
+320. McDonald's				|Fast Food
+321. Visa				|Finance
+322. Cadbury Crunchie candy bars	|Snack(sweet)
+323. Pop Tarts				|Snack(sweet)
+324. Gap				|Clothing
+325. New York Lottery			|Lottery
+326. T-Mobile / Jeep			|Phone Company	|Car
+327. Vitamin Water			|Water
+328. Gucci				|Perfume
+329. Michelob / Cadbury Dairy Milk	|Beer	|Snack(sweet)
+330. Target				|Department Store
+331. MSC Cruises			|Tourism(cruise)
+332. Nike				|Sport
+333. Virgin Media			|Telecommunications
+334. Maxell / Halfords			|Tech(audio)	|Hardware
+335. RED				|Non-profit
+336. Nissan				|Car
+337. Pepsi				|Soft Drink
+338. Expedia / Coors beer		|Tourism	|Beer
+339. Velveeta				|Food(cheese)
+340. Yoplait				|Food(yogurt)
+341. Sonos				|Tech(audio)
+342. Lidl				|Supermarket
+343. Nike				|Sport
+344. Brutus Jeans			|Clothing
+345. iPod				|Tech(audio)
+346. Nissan				|Car
+347. Walmart / Bridgestone / Coca Cola	|Department Store	|Car	|Soft Drink
+348. Apple Music			|Music Service
+349. Beats				|Tech(audio)
+350. Heineken				|Beer
+351. Halifax Bank			|Finance
+352. Gap				|Clothing
+353. Pepsi				|Soft Drink
+354. Dodge				|Car
+355. Circuit City			|Retail(electronics)
+356. Renault				|Car
+357. Kia / Dodge			|Car	|Car
+358. Verizon				|Telecommunications
+359. JCPenney				|Department Store
+360. NFL				|Sport
+361. Smirnoff				|Booze
+362. Bud Light Beer			|Beer
+363. Estee Lauder			|Perfume
+364. Budweiser				|Beer
+365. Nissan				|Car
+366. Leggs				|Clothing(collant)
+367. Beats				|Tech(audio)
+368. Budweiser				|Beer
+369. Audi				|Car
+370. Trojan				|Condoms
+371. Compare the market			|Finance
+372. US Postal Service			|Postal Service
+373. Microsoft				|Tech
+374. Allied Dunbar			|Insurance
+375. Capital One Savor			|Finance
+376. Beech-Nut 				|Snack(sweet)
+377. Sheraton Hotel			|Tourism(hotel)
+378. Tide laundry detergent		|House(cleaning)
+379. Cleveland				|Car
+380. NBC				|TV Channel
+381. Gatorade				|Soft Drink
+382. Pepsi				|Soft Drink
+383. Chevrloet				|Car
+384. Amazon				|E-commerce
+385. San Miguel				|Beer
+386. Google Pixel phone			|Tech(phone)
+387. Volkswagen				|Car
+388. Vodafone				|Phone Company
+389. Dell computers			|Tech(computer)
+390. Pepsi				|Soft Drink
+391. Doritos Blaze			|Snack(salt)
+392. Chevrolet				|Car
+393. Lucozade Lite			|Soft Drink
+394. California Cooler			|Booze
+395. Talbot				|Car
+396. Apple				|Tech
+397. Coke				|Soft Drink
+398. Denny's				|Fast Food
+399. Volkswagen				|Car
+400. Christian Mingle			|Dating service
+401. Swiffer				|House(cleaning)
+402. Coors beer				|Beer
+403. Gap				|Clothing
+404. National Car Rental		|Car
+405. Burger King / Visa			|Fast Food	|Finance
+406. Clinique				|Body care(cosmetics)
+407. Royal Caribbean Cruises		|Tourism(cruise)
+408. Old El Paso			|Food(tex-mex)
+409. Levi's				|Clothing
+410. Chevrolet				|Car
+411. Pillsbury / Ozempic		|Snack(sweet)	|Medicine
+412. Samsung				|Tech
+413. Chevrolet				|Car
+414. Lincoln MKZ			|Car
+415. Heineken				|Beer
+416. Just Dance				|Videogame
+417. Adidas				|Sport
+418. McDonald's				|Fast Food
+419. PetSmart				|Pet Supplies
+420. AT&T				|Phone Company
+421. Gap				|Clothing
+422. Mercedes				|Car
+423. Ford				|Car
+424. Geico				|Insurance
+425. Apple Watch			|Tech(smartwatch)
+426. Miller				|Beer
+427. Aquafina				|Water
+428. Pepsi				|Soft Drink
+429. Volkswagen				|Car
+430. Volvo				|Car
+431. T-Mobile				|Phone Company
+432. Soft & Gentle			|Body care(deodorant)
+433. Toyota				|Car
+434. Apartments.com			|Estate Agency
+435. Cadbury's chocolate		|Snack(sweet)
+436. Papa John's			|Pizzeria
+437. Volkswagen				|Car
+438. Volkswagen				|Car
+439. Pepsi				|Soft Drink
+440. Chanel				|Perfume
+441. Pizza Hut				|Pizzeria
+442. NFL				|Sport
+443. Nike				|Sport
+444. Apple Watch			|Tech(smartwatch)
+445. L'Oreal				|Body care(hair)
+446. Heineken				|Beer
+447. John Lewis				|Department Store
+448. Toyota / Sea World / McDonald's	|Car	|Theme Park	|Fast Food
+449. McDonald's				|Fast Food
+450. MacBook Air			|Tech(computer)
+451. Alka-Seltzer			|Medicine
+452. Pepsi				|Soft Drink
+453. Ninja Turtles movie		|Movie
+454. iPod				|Tech(audio)
+455. BBC for 2016 olympics		|TV Channel
+456. KFC				|Fast Food
+457. Fidelity Investments		|Finance
+458. TalkTalk				|Telecommunications
+459. Verizon				|Telecommunications
+460. Pepsi				|Soft Drink
+461. Volvo				|Car
+462. Buick				|Car
+463. Asda				|Supermarket
+464. Doritos				|Snack(salt)
+465. Virgin Money			|Finance
+466. Amazon Prime			|E-commerce
+467. Samsung				|Tech
+468. Acuvue				|Contact Lens
+469. John Lewis				|Department Store
+470. Gap				|Clothing
+471. Mitsubishi				|Car
+472. Volvo				|Car
+473. Android				|Tech(software)
+474. Mitsubishi				|Car
+475. T-Mobile				|Phone Company
+476. Häagen-Dazs			|Snack(sweet)
+477. iPod				|Tech(audio)
+478. Chevrolet				|Car
+479. Eckrich / Pacific Bell		|Food(sausage)	|Phone Company
+480. BirdsEye				|Food(fish)
+481. Mtn Dew				|Soft Drink
+482. Nissan				|Car
+483. Ford				|Car
+484. Ford / Pepsi			|Car	|Soft Drink
+485. iPhone				|Tech(phone)
+486. H&M				|Clothing
+487. DeBeers				|Jewelry
+488. GMC				|Car
+489. Google Android			|Tech(software)
+490. Pontiac				|Car
+491. Amazon Echo			|Tech(audio)
+492. AT&T				|Phone Company
+493. Beats				|Tech(audio)
+494. Tropicana Light			|Juice
+495. IKEA				|House
+496. HP					|Tech
+497. Levi's				|Clothing
+498. Toyota				|Car
+499. Volkswagen				|Car
+500. Beats				|Tech(audio)
+501. John Lewis				|Department Store
+502. Mtn Dew				|Soft Drink
+503. Mercedes				|Car
+504. Coors				|Beer
+505. Geico				|Insurance
+506. Beats				|Tech(audio)
+507. Acura				|Car
+508. Marks & Spencer			|Retail
+509. Microsoft				|Tech
+510. Delta / Heinz			|House	|Food(sauces)
+511. Milton Bradley			|Board Games
+512. Peloton				|Sport
+513. John Lewis				|Department Store
+514. Discover LA			|Tourism
+515. Miller Beer			|Beer
+516. Jeep				|Car
+517. American Express			|Finance
+518. KFC				|Fast Food
+519. Cadbury chocolate			|Snack(sweet)
+520. Burger King			|Fast Food
+521. Nike				|Sport
+522. United Airlines			|Airline
+523. Pepsi				|Soft Drink
+524. Key				|Finance
+525. Burger King / Walmart		|Fast Food	|Department Store
+526. GoPro				|Tech(sport)
+527. Verizon				|Telecommunications
+528. Cadillac				|Car
+529. Jeep				|Car
+530. M&M's				|Snack(sweet)
+531. Allstate / General Mills		|Insurance	|Food(cookies)
+532. Applebee's				|Restaurant
+533. Dodge				|Car
+534. Chase Bank				|Finance
+535. Ram				|Car
+536. Geico				|Insurance
+537. Ford				|Car
+538. Budweiser				|Beer
+539. Chanel				|Perfume
+540. Lipton				|Tea
+541. Minions				|Movie
+542. Vodafone				|Phone Company
+543. Freixenet				|Booze
+544. Kmart				|Department Store
+545. Monster Technology			|Tech(office)
+546. Beats				|Tech(audio)
+547. Asda				|Supermarket
+548. Acura				|Car
+549. Google				|Tech(software)
+550. Staples				|Retail(office)
+551. BASE				|Phone Company
+552. Beats				|Tech(audio)
+553. Nike				|Sport
+554. iPhone				|Tech(phone)
+555. Microsoft Phone			|Tech(phone)
+556. Walmart / Chase			|Department Store	|Finance
+557. Ralph Lauren			|Perfume
+558. Enterprise Rent-A-Car		|Car
+559. Boots				|Pharmacy
+560. Fiat				|Car
+561. Coca-Cola				|Soft Drink
+562. Citgo				|Gas
+563. Nivea				|Body Care
+564. Apple iMac / Acura			|Tech(computer
+565. Peloton				|Sport
+566. Morrisons				|Supermarket
+567. Nair				|Body Care(hair)
+568. Dodge				|Car
+569. Levi's				|Clothing
+570. Coca Cola				|Soft Drink
+571. Budweiser				|Beer
+572. Volkswagen				|Car
+573. Renault				|Car
+574. Nissan / Best Buy (electronics)	|Car	|Retail(electronics)
+575. Chevrolet / Bose			|Car	|Tech(audio)
+576. Sony				|Tech(phone)
+577. Palm Pixi				|Tech(phone)
+578. Schick				|Body Care(razor)
+579. Dodge				|Car
+580. Mtn Dew				|Soft Drink
+581. BMW				|Car
+582. American Express / Best Buy	|Finance	|Retail(electronics)
+583. Geico				|Insurance
+584. Chrysler				|Car
+585. DirecTV				|Telecommunications
+586. Beats				|Tech(audio)
+587. John Lewis				|Department Store
+588. John Lewis				|Department Store
+589. Dr Pepper				|Soft Drink
+590. Mercedes / Nissan			|Car	|Car
+591. Bumble				|Dating Service
+592. iPad Pro				|Tech(tablet)
+593. Lincoln				|Car
+594. Levi's				|Clothing
+595. American Express / JPMorgan Chase	|Finance	|Finance
+596. Ketel One / Cosmopolitan hotel	|Booze	|Tourism(hotel)
+597. Android OS				|Tech(software)
+598. Cadillac SRX			|Car
+599. Levi's / Budweiser			|Clothing	|Beer
+600. H&M				|Clothing
+601. Audi				|Car
+602. Microsoft				|Tech
+603. Doritos				|Snack(salt)
+604. Cadillac				|Car
+605. Volkswagen				|Car		
+606. Budweiser				|Beer
+607. Volkswagen				|Car
+608. Kellogg's				|Food(cereal)
+609. Chevrolet				|Car
+610. Toyota				|Car
+611. Target				|Department Store
+612. US Postal Service / UPS / Target	|Postal Service	|Postal Service	|Department Store
+613. Nissan				|Car
+614. Walmart				|Department Store
+615. H&M				|Clothing
+616. Air France				|Airline
+617. Miller				|Beer
+618. Fiat				|Car
+619. Honda				|Car
+620. California Cooler / Pringles	|Booze	|Snack(salt)
+621. Real California			|Food(milk)
+622. Coors Light			|Beer
+623. Sure Upside Down			|Body Care(deodorant)
+624. John Lewis				|Department Store
+625. Crystal Geyser			|Water
+626. Levi's				|Clothing
+627. Target				|Department Store
+628. Beats				|Tech(audio)
+629. Volkswagen				|Car
+630. Taco Bell				|Fast Food
+631. Office Depot			|Retail(office)
+632. Coca Cola				|Soft Drink
+633. Listerine				|Body Care(mouthwash)
+634. H&R Block				|Tax
+635. Apple II				|Tech(computer)
+636. Windows 10 			|Tech(software)
+637. Burger King / Heineken		|Fast Food	|Beer
+638. Bud Light				|Beer
+639. iPhone 8				|Tech(phone)
+640. 2016 Olympic Games			|Sport
+641. Cadbury Crunchie / Crest / Burger King	|Medicine	|Body Care(toothpaste)	|Fast Food
+642. FedEX				|Postal Service		
+643. Gatsby				|Body Care(makeup)
+644. Wrangler / Chase / Applebee's	|Clothing	|Finance	|Restaurant
+645. Geico				|Insurance
+646. Special K				|Food(cereal)
+647. Heineken				|Beer
+648. Walkers				|Snack(salt)
+649. American Express			|Finance
+650. Levi's				|Clothing
+651. Toyota				|Car
+652. Beats				|Tech(audio)
+653. Target				|Department Store
+654. Apple Music			|Music Service
+655. Nike				|Sport
+656. John Lewis				|Department Store
+657. OfficeMax				|Retail(office)
+658. Old Navy				|Clothing
+659. Lambrini				|Booze
+660. Cadillac				|Car
+661. Sony				|Tech(TV)
+662. Coopers / Bank of Montreal		|Beer	|Finance
+663. British Gas			|Gas
+664. Burberry				|Clothing
+665. Michelob				|Beer
+666. Kraft / Intel / Oklahoma		|Food(dressing)	|Tech	|Gas
+667. Volkswagen				|Car
+668. Lipton tea				|Tea
+669. Toyota				|Car
+670. Pizza Hut				|Pizzeria
+671. Hyundai				|Car
+672. Levi's				|Clothing
+673. NBC Winter Olympics promo		|TV Channel(sport)
+674. The North Face			|Clothing
+675. eHarmony				|Dating Service
+676. Hyundai				|Car
+677. Some				|Soft Drink
+678. Jeep				|Car
+679. Samsung phone			|Tech(phone)
+680. Holden				|car
+681. Subaru				|Car
+682. McDonald's				|Fast Food
+683. iPhone 6				|Tech(phone)
+684. Fidelity Investments / Magner	|Finance	|Booze
+685. Kodak camera			|Tech(camera)
+686. Michelob beer			|Beer
+687. Facebook				|Social Network
+688. iPod touch				|Tech(audio)
+689. Pepsi				|Soft Drink
+690. Michelob				|Beer
+691. Microsoft internet explorer	|Tech(software)
+692. Westpac				|Finance
+693. Nivea				|Body Care
+694. Mercedes				|Car
+695. Apple MacBook Air			|Tech(computer)
+696. Target				|Department Store
+697. Travelers				|Insurance
+698. Kodak				|Tech(camera)
+699. McDonald's				|Fast Food
+700. RadioShack				|Tech(audio)
+701. Peugeot				|Car
+702. Geico				|Insurance
+703. Lincoln				|Car
+704. Sony				|Tech(TV)
+705. Gillette				|Body Care(razor)
+706. Fossil				|Tech(smartwatch)
+707. Mercedes				|Car
+708. Dunlop				|Car
+709. Dr Pepper				|Soft Drink
+710. iTunes				|Music Service
+711. Pfizer				|Medicine
+712. Tommy Hilfiger			|Clothing
+713. Victoria's Secret			|Clothing(lingerie)
+714. Facebook				|Social Network
+715. Honda				|Car
+716. Co-operative			|Retail
+717. Nike				|Sport
+718. Beats				|Tech(audio)
+719. Boots				|Pharmacy
+720. Pepsi				|Soft Drink
+721. Audi				|Car
+722. Chevrolet				|Car
+723. Pepsi				|Soft Drink
+724. 3					|Phone Company
+725. HP					|Tech
+726. Six Flags				|Theme Park
+727. Wren				|Clothing
+728. Lipton Tea				|Tea
+729. Kirin				|Beer
+730. Crocker Bank			|Finance
+731. Absolut Vodka			|Booze
+732. Taco Bell				|Fast Food
+733. Lego				|Toys
+734. Journey Diamond			|Jewelry
+735. General Mills			|Food(cereal)
+736. Budweiser				|Beer
+737. Pepsi				|Soft Drink
+738. Mitsubishi				|Car
+739. Levi's / Tony's frozen pizza	|Clothing	|Food(pizza)
+740. Canon				|Tech(camera)
+741. Canon				|Tech(camera)
+742. Dr Pepper				|Soft Drink
+743. Twinings tea			|Tea
+744. Swiffer				|House(cleaning)
+745. Samsung phone			|Tech(phone)
+746. iMac Apple				|Tech(computer)
+747. iPad Air 2 Apple			|Tech(tablet)
+748. New Jersey tourism			|Tourism
+749. XM Satellite Radio			|Sport
+750. Mon Geurlain			|Perfume
+751. Durex				|Condoms
+752. NBA				|Sport
+753. Lloyds Bank			|Finance
+754. Stridex				|Medicine
+755. Blue Moon				|Beer
+756. Tommy Hilfiger			|Perfume
+757. Heinz				|Food(sauces)
+758. Miller				|Beer
+759. Nissan				|Car
+760. Standard				|Insurance
+761. Levi's				|Clothing
+762. Walmart				|Department Store
+763. Cadbury chocolate			|Snack(sweet)
+764. Honda				|Car
+765. Outback Steakhouse			|Restaurant
+766. Confused.com			|Insurance
+767. iPod nano				|Tech(audio)
+768. Coca Cola				|Soft Drink
+769. Chrysler				|Car
+770. Rio				|Tech(audio)
+771. Zales				|Jewelry
+772. Holiday Inn			|Tourism(hotel
+773. House of Fraser			|Department Store
+774. Coca Cola				|Soft Drink
+775. Tesco				|Supermarket
+776. Google maps			|Tech(software)
+777. Nissan				|Car
+778. Dr Pepper / Chevrolet		|Soft Drink	|Car
+779. IKEA				|House
+780. Heineken				|Beer
+781. Movistar				|Telecommunications
+782. Coca Cola				|Soft Drink
+783. Volkswagen				|Car
+784. Homebase				|Retail(house)
+785. Rimmel				|Body Care(cosmetics)
+786. Microsoft Internet explorer	|Tech(software)
+787. Debenhams				|Department Store
